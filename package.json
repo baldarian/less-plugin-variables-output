@@ -1,0 +1,12 @@
+{
+  "name": "less-plugin-variables-output",
+  "version": "0.0.1",
+  "description": "Adds output of all top-level variables to a CSS file",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "less": "^2.7.2",
+    "mkdirp": "^0.5.1"
+  },
+  "dependencies": {}
+}
