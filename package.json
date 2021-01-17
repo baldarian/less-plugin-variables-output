@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-variables-to-css",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Adds output of all top-level variables to a CSS file",
   "main": "lib/index.js",
   "license": "MIT",
